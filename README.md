@@ -1,11 +1,11 @@
 **Name: Dumitrescu Rares Matei and Avram Cristian Stefan**\
 **Group: 311CA**
 
-# Homework Nr. 3 - Simple Linux File System
+# Linux File System
 
 ## Description
 
-This homework is oriented to simulate a Linux file system, by using linked lists and the concept of trees, which is including a list of children, that represents the files and directories that a folder may contain. Practically, this homework gives us an idea about how real life things are working and, even if they are much more complex than we think, it is still pushing us a step forward in understanding the concepts of operating systems and the programming that lays behind.
+This project is oriented to simulate a Linux file system, by using linked lists and the concept of trees, which is including a list of children, that represents the files and directories that a folder may contain. Practically, this homework gives us an idea about how real life things are working and, even if they are much more complex than we think, it is still pushing us a step forward in understanding the concepts of operating systems and the programming that lays behind.
 
 For different commands that the users could give, there were implemented different functions.
 >* **CREATE COMMANDS**
